@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');  
-    .headerz{
+    #headerz{
       font-family: 'Rubik', monospace;
       text-align: center;
+      font-size: medium;
     }
-    #Par{      
-        font-family: fantasy;
-    }
+    
