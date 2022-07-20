@@ -1,2 +1,3 @@
 # FlameGamesRB.github.io
-FlameGamesRB
+FlameGamesRB 
+Please go to FlameGamesRB.github.io
